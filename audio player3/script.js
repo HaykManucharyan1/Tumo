@@ -119,4 +119,9 @@ let data = {
       song.volume += 0.2
 
   }
+  function cikl(){
+      currentSong--
+      if(song.ended){
+      }
+  }
   
